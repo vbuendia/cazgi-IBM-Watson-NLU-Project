@@ -1,1 +1,3 @@
-# coding-project-template
+# Sentiment analyzer  
+
+Via IBM Cloud API
